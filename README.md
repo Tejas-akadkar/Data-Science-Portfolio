@@ -12,3 +12,7 @@ https://github.com/Tejas-akadkar/Machine-Learning-pre-processing-automated
 
 # 4.Used Car Price Prediction Model
 https://github.com/Tejas-akadkar/Used-Car-Price-Prediction
+
+
+# Factors That Will Influence US housing Market Over Next 10 Years.
+https://github.com/Tejas-akadkar/US-Housing-Market-over-next-10-years
